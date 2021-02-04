@@ -1,96 +1,95 @@
 {
-    "articles":[
-      {
-        "id" : 0,
-        "name": "Clothing Set",
-        "price" : "50",
-        "description": "Dress modern, on a budget.",
-        "companyDescription": "We are a company based in Istanbul, Turkey. Our company has made clothing sets for 40+ years.",
-        "images": [
-            "https://i.ibb.co/BZTCNbx/clothes.jpg"
-        ]
-      },
-      {
-        "id" : 1,
-        "name": "Exclusive Lighter",
-        "price" : "75",
-        "description": "Smoke in style, be unique.",
-        "companyDescription": "We are a company based in Saudi Arabia. Our company has made exclusive lighters for 10 years, we are very passionate about what we do.",
-        "images": [
-            "https://i.ibb.co/f2BW2Ld/exclusive-lighter.jpg"
-        ]
-      },
-      {
-        "id" : 2,
-        "name": "Luxury makeup",
-        "price" : "150",
-        "description": "Best makeup that money can buy, beautiful, easy to apply.",
-        "companyDescription": "Makeup, cosmetics and salon equipment - complete assortment of leading world brands, shipping worldwide.",
-        "images": [
-            "https://i.ibb.co/q76mk58/exclusive-makeup.jpg"
-        ]
-      },
-      {
-        "id" : 2,
-        "name": "MacBook Air 2021",
-        "price" : "845",
-        "description": "Our thinnest, lightest notebook, completely transformed by the Apple M1 chip. ",
-        "companyDescription": "Cutting edge tech from leading tech company - Apple.",
-        "images": [
-            "https://i.ibb.co/B383Czm/laptop.jpg",
-            "https://i.ibb.co/kSKWvhM/laptop-second.jpg"
-        ]
-      },
-      {
-        "id" : 3,
-        "name": "Apple tech set",
-        "price" : "1999",
-        "description": "3 in 1 set by Apple, Iphone 6, iPad Pro & MacBook Pro",
-        "companyDescription": "Cutting edge tech from leading tech company - Apple.",
-        "images": [
-            "https://i.ibb.co/C7zfR7w/laptop-tablet-phone.jpg"
-        ]
-      },
-      {
-        "id" : 4,
-        "name": "OneStep+ Polaroid Camera",
-        "price" : "149",
-        "description": "Best Polaroid that the money can buy.",
-        "companyDescription": "Brought to you by Polaroid",
-        "images": [
-            "https://i.ibb.co/c3H5fBY/polaroid.jpg"
-        ]
-      },
-      {
-        "id" : 5,
-        "name": "Mercedes-Benz C class cabriolet",
-        "price" : "69999",
-        "description": "The Mercedes-Benz C-Class is a line of compact executive cars produced by Daimler AG.",
-        "companyDescription": "Mercedes-Benz combines luxury with performance across the full line of models including luxury sedans, SUVs, coupes, roadsters, convertibles & more.",
-        "images": [
-            "https://i.ibb.co/VLqwdDY/vehicles-mercedes1.jpg",
-            "https://i.ibb.co/GT9mMN1/vehicles-mercedes2.jpg",
-        ]
-      },
-      {
-        "id" : 6,
-        "name": "Casio EDIFICE",
-        "price" : "350",
-        "description": "Rose Gold + Matte Black ED Watch",
-        "companyDescription": "Manufacture of innovative new digital cameras, watches, digital keyboard pianos, calculators, projectors, label printers, cash registers, electronic dictionaries.",
-        "images": [
-            "https://i.ibb.co/wr1wK19/watch.jpg"
-        ]
-      },
-      {
-        "id" : 7,
-        "name": "Black Leather Shoes",
-        "price" : "70",
-        "description": "Buy Modern, on a budget.",
-        "companyDescription": "We are a company based in Istanbul, Turkey. Our company has made clothing sets for 40+ years.",
-        "images": [
-            "https://i.ibb.co/hHmz5rk/shoes.jpg"
-        ]
-      },
-    ],
+	"articles": [{
+			"id": 0,
+			"name": "Clothing Set",
+			"price": "50",
+			"description": "Dress modern, on a budget.",
+			"companyDescription": "We are a company based in Istanbul, Turkey. Our company has made clothing sets for 40+ years.",
+			"images": [
+				"https://i.ibb.co/BZTCNbx/clothes.jpg"
+			]
+		},
+		{
+			"id": 1,
+			"name": "Exclusive Lighter",
+			"price": "75",
+			"description": "Smoke in style, be unique.",
+			"companyDescription": "We are a company based in Saudi Arabia. Our company has made exclusive lighters for 10 years, we are very passionate about what we do.",
+			"images": [
+				"https://i.ibb.co/f2BW2Ld/exclusive-lighter.jpg"
+			]
+		},
+		{
+			"id": 2,
+			"name": "Luxury makeup",
+			"price": "150",
+			"description": "Best makeup that money can buy, beautiful, easy to apply.",
+			"companyDescription": "Makeup, cosmetics and salon equipment - complete assortment of leading world brands, shipping worldwide.",
+			"images": [
+				"https://i.ibb.co/q76mk58/exclusive-makeup.jpg"
+			]
+		},
+		{
+			"id": 2,
+			"name": "MacBook Air 2021",
+			"price": "845",
+			"description": "Our thinnest, lightest notebook, completely transformed by the Apple M1 chip. ",
+			"companyDescription": "Cutting edge tech from leading tech company - Apple.",
+			"images": [
+				"https://i.ibb.co/B383Czm/laptop.jpg",
+				"https://i.ibb.co/kSKWvhM/laptop-second.jpg"
+			]
+		},
+		{
+			"id": 3,
+			"name": "Apple tech set",
+			"price": "1999",
+			"description": "3 in 1 set by Apple, Iphone 6, iPad Pro & MacBook Pro",
+			"companyDescription": "Cutting edge tech from leading tech company - Apple.",
+			"images": [
+				"https://i.ibb.co/C7zfR7w/laptop-tablet-phone.jpg"
+			]
+		},
+		{
+			"id": 4,
+			"name": "OneStep+ Polaroid Camera",
+			"price": "149",
+			"description": "Best Polaroid that the money can buy.",
+			"companyDescription": "Brought to you by Polaroid",
+			"images": [
+				"https://i.ibb.co/c3H5fBY/polaroid.jpg"
+			]
+		},
+		{
+			"id": 5,
+			"name": "Mercedes-Benz C class cabriolet",
+			"price": "69999",
+			"description": "The Mercedes-Benz C-Class is a line of compact executive cars produced by Daimler AG.",
+			"companyDescription": "Mercedes-Benz combines luxury with performance across the full line of models including luxury sedans, SUVs, coupes, roadsters, convertibles & more.",
+			"images": [
+				"https://i.ibb.co/VLqwdDY/vehicles-mercedes1.jpg",
+				"https://i.ibb.co/GT9mMN1/vehicles-mercedes2.jpg"
+			]
+		},
+		{
+			"id": 6,
+			"name": "Casio EDIFICE",
+			"price": "350",
+			"description": "Rose Gold + Matte Black ED Watch",
+			"companyDescription": "Manufacture of innovative new digital cameras, watches, digital keyboard pianos, calculators, projectors, label printers, cash registers, electronic dictionaries.",
+			"images": [
+				"https://i.ibb.co/wr1wK19/watch.jpg"
+			]
+		},
+		{
+			"id": 7,
+			"name": "Black Leather Shoes",
+			"price": "70",
+			"description": "Buy Modern, on a budget.",
+			"companyDescription": "We are a company based in Istanbul, Turkey. Our company has made clothing sets for 40+ years.",
+			"images": [
+				"https://i.ibb.co/hHmz5rk/shoes.jpg"
+			]
+		}
+	]
 }
